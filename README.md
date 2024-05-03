@@ -1,6 +1,6 @@
-<h1>Responsive Full CSS Website Design With CSS And JavasCript By Crasius</h1>
+<h1>Responsive React Native App With No image Using Expo | Create React Native App Just Like CSS</h1>
 
-This Beautiful Website is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Hello everyone  today we are going to make a fully functional & responsive app as start for create application as starter with  react native and also we gonna use reanimated 3.0 for animation and with 1 one image as nice start 
 
 <h1>Demo</h1>
 
@@ -14,9 +14,9 @@ This Beautiful Website is a fully responsive ecommerce website, maximum compatib
 <h1>Prerequisites</h1>
 Before you begin, You Need To Know For this Website:
 
-This website is not fully Project and It have HTMl and Javascript And Media of CSS You must
-Watch Video To Create All CSS You Can find the video in Crasius Youtube And If You want all code
-you can buy the project with best price for all css 
+This website is not fully Project and It have Real Source of Javascript(App.js) With Out StyleSheet
+Watch Video To Create All StyleSheet Javascript  You Can find the video in Crasius Youtube And If You want all code
+you can buy the project with best price for all StyleSheet Javascript 
 
 <h1>Contact</h1>
 If you want to contact me you can reach me at Youtube And Telegram.
